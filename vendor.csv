@@ -1,0 +1,6 @@
+git://github.com/manyhatsdesign/project-template-codekit.git,vendor/project-template-codekit
+git://github.com/thehive/codekit-kickoff,vendor/codekit-kickoff
+git://github.com/jrodl3r/h5bp-codekit.git,vendor/h5bp-codekit
+git://github.com/thomas-mcdonald/bootstrap-sass.git,vendor/bootstrap-sass
+git://github.com/yui/pure.git,vendor/pure
+git://github.com/zurb/foundation.git,vendor/foundation
