@@ -1,0 +1,15 @@
+[submodule "vendor/project-template-codekit"]
+	path = vendor/project-template-codekit
+	url = git://github.com/manyhatsdesign/project-template-codekit.git
+[submodule "vendor/codekit-kickoff"]
+	path = vendor/codekit-kickoff
+	url = git://github.com/thehive/codekit-kickoff
+[submodule "vendor/h5bp-codekit"]
+	path = vendor/h5bp-codekit
+	url = git://github.com/jrodl3r/h5bp-codekit.git
+[submodule "vendor/bootstrap-sass"]
+	path = vendor/bootstrap-sass
+	url = git://github.com/thomas-mcdonald/bootstrap-sass.git
+[submodule "vendor/pure"]
+	path = vendor/pure
+	url = git://github.com/yui/pure.git
