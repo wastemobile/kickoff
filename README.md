@@ -1,5 +1,7 @@
 ## Keep some kickoff templates, all have to work with CodeKit.
 
+看來是過時啦～
+
 ## Compass
 
 `config.rb` 是提供給可用 Compass 安裝的套件使用。當然預先必須使用 `gem` 安裝相關套件，最基本的只要 `gem install susy` ，就會一併把 sass、compass 各相依套件一併裝完。
